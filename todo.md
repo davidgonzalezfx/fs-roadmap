@@ -4,3 +4,4 @@ TODO:
 
 
 * WSL
+* oh-my-zsh
