@@ -13,10 +13,10 @@ David:
 
 Santiago:
 
-- [] Practicar crear un repositorio nuevo (git init) en local, y luego crear en github y sincronizar
+- [ ] Practicar crear un repositorio nuevo (git init) en local, y luego crear en github y sincronizar
   * crear muchos commits
   * crear otra rama y hacer más commits
   * hacer un merge
  
-- [] Clonar, crear una rama nueva, subir un nuevo archivo y editar un archivo existente a este repositorio. Hacer push de la rama y crear un PR (pull request) 
+- [ ] Clonar, crear una rama nueva, subir un nuevo archivo y editar un archivo existente a este repositorio. Hacer push de la rama y crear un PR (pull request) 
 
