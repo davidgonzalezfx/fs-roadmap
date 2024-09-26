@@ -1,14 +1,14 @@
-TODO:
+Práctica:
 
 Configurar entorno de trabajo de Santi:
-* Opciones: WSL, git bash, github codespaces (no se si es gratis), algun editor en linea, 
+* Opciones: WSL, git bash, algun editor en linea, 
 * oh-my-zsh (opcional, para trabajar mas rapido en la terminal)
 
 David:
 
-* Añadir 'resources.md' con lista de recursos de cada sesión
+- [ ] Añadir 'resources.md' con lista de recursos de cada sesión
   * con lista de comandos de git aprendidos
-* Buscar ejemplo de sitio web "inseguro"
+- [ ] Buscar ejemplo de sitio web "inseguro"
 
 
 Santiago:
